@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+AVR_int_base	KEYWORD1
+
+#######################################
+# Class Methods & Functions (KEYWORD2)
+#######################################
+enable	KEYWORD2
+disable	KEYWORD2
+isEnabled	KEYWORD2
+isTriggered	KEYWORD2
+resetFlagBit	KEYWORD2
+onInterruptTriggered	KEYWORD2
+
+
+######################################
+# Others Constants (LITERAL1)
+#######################################
+
